@@ -18,5 +18,5 @@ Schau dir gerne meine angepinnten Repositories an! Dort findest du:
 
 ---
 📫 Du findest mich im Studium oder direkt hier auf GitHub!
-**Kevin-Rasiah/Kevin-Rasiah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
