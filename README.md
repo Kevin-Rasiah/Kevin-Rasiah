@@ -3,8 +3,6 @@
 Willkommen auf meinem GitHub-Profil! Ich studiere Wirtschaftsinformatik und nutze diese Plattform, um meine Programmierprojekte zu dokumentieren, neue Tech-Stacks auszuprobieren und meine Reise in die Softwareentwicklung festzuhalten.
 
 ## 🚀 Woran ich gerade arbeite
-* 🎓 Erfolgreicher Start ins Wirtschaftsinformatik-Studium.
-* 🐍 Vertiefung meiner Python-Kenntnisse (Data Science, Algorithmen) und bald Java.
 * 📊 CS50 Course from Harvard University.
 
 ## 🛠️ Tech-Stack & Tools
